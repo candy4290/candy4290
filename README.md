@@ -7,7 +7,7 @@ I'm candy4290(Cxx) .
 ✍️ 正在在学习 Vue、three.js。  
 🤩 喜欢 探索 Github 上有趣项目。
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=candy4290)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=candy4290&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 candy4290/candy4290 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
